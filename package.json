@@ -1,14 +1,14 @@
 {
   "name": "scalping-bot",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "scalping-bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node scalping-bot.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "async": "^3.2.6",
     "axios": "^1.8.4",
